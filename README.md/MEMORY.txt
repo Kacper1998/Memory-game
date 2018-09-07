@@ -1,0 +1,7 @@
+Gra memory wykonana jako projekt koñcowy bootcampu Coders Lab.
+
+-HTML
+-CSS
+-JS
+
+W przysz³oœci dodam swoje obrazki u¿ytych technologii w czasie kursu np. html , css , i tak dalej oraz linki po zakoñczoej grze.
